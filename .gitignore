@@ -1,0 +1,14 @@
+*.log
+.DS_Store
+node_modules
+coverage
+.cache
+.rts2_cache_cjs
+.rts2_cache_esm
+.rts2_cache_umd
+dist
+build
+.yalc
+storybook-static
+# Local Netlify folder
+.netlify
